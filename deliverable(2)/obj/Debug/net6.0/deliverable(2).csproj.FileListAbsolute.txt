@@ -1,0 +1,15 @@
+D:\School\deliverable(2)\deliverable(2)\bin\Debug\net6.0\deliverable(2).exe
+D:\School\deliverable(2)\deliverable(2)\bin\Debug\net6.0\deliverable(2).deps.json
+D:\School\deliverable(2)\deliverable(2)\bin\Debug\net6.0\deliverable(2).runtimeconfig.json
+D:\School\deliverable(2)\deliverable(2)\bin\Debug\net6.0\deliverable(2).dll
+D:\School\deliverable(2)\deliverable(2)\bin\Debug\net6.0\deliverable(2).pdb
+D:\School\deliverable(2)\deliverable(2)\obj\Debug\net6.0\deliverable(2).csproj.AssemblyReference.cache
+D:\School\deliverable(2)\deliverable(2)\obj\Debug\net6.0\deliverable(2).GeneratedMSBuildEditorConfig.editorconfig
+D:\School\deliverable(2)\deliverable(2)\obj\Debug\net6.0\deliverable(2).AssemblyInfoInputs.cache
+D:\School\deliverable(2)\deliverable(2)\obj\Debug\net6.0\deliverable(2).AssemblyInfo.cs
+D:\School\deliverable(2)\deliverable(2)\obj\Debug\net6.0\deliverable(2).csproj.CoreCompileInputs.cache
+D:\School\deliverable(2)\deliverable(2)\obj\Debug\net6.0\deliverable(2).dll
+D:\School\deliverable(2)\deliverable(2)\obj\Debug\net6.0\refint\deliverable(2).dll
+D:\School\deliverable(2)\deliverable(2)\obj\Debug\net6.0\deliverable(2).pdb
+D:\School\deliverable(2)\deliverable(2)\obj\Debug\net6.0\deliverable(2).genruntimeconfig.cache
+D:\School\deliverable(2)\deliverable(2)\obj\Debug\net6.0\ref\deliverable(2).dll
